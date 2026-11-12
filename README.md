@@ -1,4 +1,4 @@
-# 科电 Windows 开发工具包
+# 科电软件推荐之 VS Code
 
 这里整理了 VS Code 和 MinGW-w64 的下载入口，适合使用 Windows x64 学习 C/C++ 的同学。
 
@@ -10,7 +10,7 @@ VS Code 由微软提供下载，可以前往 [VS Code 官方下载页面](https:
 
 ### MinGW-w64
 
-MinGW-w64 编译器包放在本仓库的 [Releases 发布页面](https://github.com/kedian-club/vscode-windows-toolchain/releases/tag/mingw-w64-8.1.0-rt-v6-rev0) 中。打开页面，找到 **Assets**，点击 `x86_64-8.1.0-release-posix-seh-rt_v6-rev0.7z` 下载；也可以[直接点击下载编译器包](https://github.com/kedian-club/vscode-windows-toolchain/releases/download/mingw-w64-8.1.0-rt-v6-rev0/x86_64-8.1.0-release-posix-seh-rt_v6-rev0.7z)。
+MinGW-w64 编译器包放在本仓库的 [Releases 发布页面](https://github.com/kedian-club/kedian-software-vscode/releases/tag/mingw-w64-8.1.0-rt-v6-rev0) 中。打开页面，找到 **Assets**，点击 `x86_64-8.1.0-release-posix-seh-rt_v6-rev0.7z` 下载；也可以[直接点击下载编译器包](https://github.com/kedian-club/kedian-software-vscode/releases/download/mingw-w64-8.1.0-rt-v6-rev0/x86_64-8.1.0-release-posix-seh-rt_v6-rev0.7z)。
 
 该版本适用于 Windows x64，使用 GCC 8.1.0。页面上的 `src-8.1.0-release-rt_v6-rev0.tar.7z` 是对应的源代码，日常安装编译器不需要下载。若 GitHub 下载不方便，也可以尝试[上游下载页面](https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win64/Personal%20Builds/mingw-builds/8.1.0/threads-posix/seh/)。
 
@@ -18,4 +18,4 @@ MinGW-w64 编译器包放在本仓库的 [Releases 发布页面](https://github.
 
 ## 许可与来源
 
-各软件适用其发布方提供的许可条款。[VS Code 许可](https://code.visualstudio.com/license) · [MinGW-w64 工具链列表](https://www.mingw-w64.org/downloads/) · [本仓库对应的 MinGW-w64 源代码](https://github.com/kedian-club/vscode-windows-toolchain/releases/download/mingw-w64-8.1.0-rt-v6-rev0/src-8.1.0-release-rt_v6-rev0.tar.7z)
+各软件适用其发布方提供的许可条款。[VS Code 许可](https://code.visualstudio.com/license) · [MinGW-w64 工具链列表](https://www.mingw-w64.org/downloads/) · [本仓库对应的 MinGW-w64 源代码](https://github.com/kedian-club/kedian-software-vscode/releases/download/mingw-w64-8.1.0-rt-v6-rev0/src-8.1.0-release-rt_v6-rev0.tar.7z)
